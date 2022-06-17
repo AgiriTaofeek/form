@@ -133,6 +133,10 @@ body {
   cursor: pointer;
 }
 
+.btn:hover {
+  background-color: hsl(154, 54%, 60%);
+}
+
 .form-footer {
   color: var(--clr-neutral-1);
   font-size: 1rem;
